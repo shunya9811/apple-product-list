@@ -1,0 +1,28 @@
+.content{
+  justify-content: center;
+}
+
+.card{
+  display: flex;
+  width: auto;
+  height: auto;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 15px rgba(0,0,0,.2);
+  margin: 20px;
+  
+}
+
+.textbox{
+  width: 100%;
+  height: auto;
+  padding: 20px 18px;
+  background: #fff;
+  box-sizing: border-box;
+}
+
+.card__imgframe{
+  width: 300px;
+  height: 300px;
+  box-sizing: border-box;
+}
