@@ -3,7 +3,7 @@ import './App.css'
 import MacBookAir from './images/MacBookAir.jpg'
 import MacBookPro13 from './images/MacBookPro13.jpg'
 import MacBookPro14 from './images/MacBookPro14.jpg'
-import iPhone13pro from './images/iPhone13Pro.jpg'
+import iPhone13Pro from './images/iPhone13Pro.jpg'
 import iPhone13 from './images/iPhone13.jpg'
 import iPhoneSE from './images/iPhoneSE.jpg'
 
@@ -189,7 +189,7 @@ const PRODUCTS = [
   {category: 'Mac', price: '115,280円', stocked: true, name: 'MacBook Air', image: MacBookAir, to: 'https://www.apple.com/jp/macbook-air/'},
   {category: 'Mac', price: '148,280円', stocked: true, name: 'MacBook Pro 13Inch', image: MacBookPro13, to: 'https://www.apple.com/jp/shop/buy-mac/macbook-pro/13%E3%82%A4%E3%83%B3%E3%83%81'},
   {category: 'Mac', price: '239,800円', stocked: false, name: 'MacBook Pro 14Inch', image: MacBookPro14, to:'https://www.apple.com/jp/shop/buy-mac/macbook-pro/14%E3%82%A4%E3%83%B3%E3%83%81',},
-  {category: 'iPhone', price: '122,800円', stocked: true, name: 'iPhone 13Pro', image: iPhone13pro, to:'https://www.apple.com/jp/shop/buy-iphone/iphone-13-pro'},
+  {category: 'iPhone', price: '122,800円', stocked: true, name: 'iPhone 13Pro', image: iPhone13Pro, to:'https://www.apple.com/jp/shop/buy-iphone/iphone-13-pro'},
   {category: 'iPhone', price: '86,800円', stocked: false, name: 'iPhone 13', image: iPhone13, to:'https://www.apple.com/jp/shop/buy-iphone/iphone-13'},
   {category: 'iPhone', price: '57,800円', stocked: true, name: 'iPhone SE', image: iPhoneSE, to:'https://www.apple.com/jp/shop/buy-iphone/iphone-se'},
   {category: 'iPad', price: '57,800円', stocked: true, name: 'iPhone SE', image: iPhoneSE, to:'https://www.apple.com/jp/shop/buy-iphone/iphone-se'}
