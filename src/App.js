@@ -195,7 +195,7 @@ const PRODUCTS = [
   {category: 'iPhone', price: '122,800円', stocked: true, name: 'iPhone 13Pro', image: iPhone13Pro, to:'https://www.apple.com/jp/shop/buy-iphone/iphone-13-pro'},
   {category: 'iPhone', price: '86,800円', stocked: false, name: 'iPhone 13', image: iPhone13, to:'https://www.apple.com/jp/shop/buy-iphone/iphone-13'},
   {category: 'iPhone', price: '57,800円', stocked: true, name: 'iPhone SE', image: iPhoneSE, to:'https://www.apple.com/jp/shop/buy-iphone/iphone-se'},
-  {category: 'iPad', price: 84800, stocked: true, name: 'iPad Air', image: iPadAir, to:'https://www.apple.com/jp/shop/buy-ipad/ipad-air'}
+  {category: 'iPad', price: "84,800円", stocked: true, name: 'iPad Air', image: iPadAir, to:'https://www.apple.com/jp/shop/buy-ipad/ipad-air'}
 ];
 
 export default App;
