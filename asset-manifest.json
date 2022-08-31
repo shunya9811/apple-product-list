@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/apple-product-list/static/css/main.c114303c.css",
-    "main.js": "/apple-product-list/static/js/main.c99d6b9c.js",
+    "main.js": "/apple-product-list/static/js/main.43167a8e.js",
     "static/js/787.216d1c17.chunk.js": "/apple-product-list/static/js/787.216d1c17.chunk.js",
     "static/media/iPhoneSE.jpg": "/apple-product-list/static/media/iPhoneSE.c10c8f7410c40fa8544f.jpg",
+    "static/media/iPadAir.jpg": "/apple-product-list/static/media/iPadAir.d955da03dbac0b35a8b6.jpg",
     "static/media/iPhone13Pro.jpg": "/apple-product-list/static/media/iPhone13Pro.b1e3ee625fb23447d8c8.jpg",
     "static/media/iPhone13.jpg": "/apple-product-list/static/media/iPhone13.07a74c07bde2189b74c4.jpg",
     "static/media/MacBookAir.jpg": "/apple-product-list/static/media/MacBookAir.649f310879f665a283c4.jpg",
@@ -11,11 +12,11 @@
     "static/media/MacBookPro14.jpg": "/apple-product-list/static/media/MacBookPro14.04f47207d5371feb137e.jpg",
     "index.html": "/apple-product-list/index.html",
     "main.c114303c.css.map": "/apple-product-list/static/css/main.c114303c.css.map",
-    "main.c99d6b9c.js.map": "/apple-product-list/static/js/main.c99d6b9c.js.map",
+    "main.43167a8e.js.map": "/apple-product-list/static/js/main.43167a8e.js.map",
     "787.216d1c17.chunk.js.map": "/apple-product-list/static/js/787.216d1c17.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c114303c.css",
-    "static/js/main.c99d6b9c.js"
+    "static/js/main.43167a8e.js"
   ]
 }
