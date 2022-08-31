@@ -6,6 +6,7 @@ import MacBookPro14 from './images/MacBookPro14.jpg'
 import iPhone13Pro from './images/iPhone13Pro.jpg'
 import iPhone13 from './images/iPhone13.jpg'
 import iPhoneSE from './images/iPhoneSE.jpg'
+import iPadAir from './images/iPadAir.jpg'
 
 
 class ProductCategoryRow extends React.Component {
@@ -103,6 +104,8 @@ class SearchBar extends React.Component {
   handleInStockChange(e) {
     this.props.onInStockChange(e.target.checked);
   }
+
+
   
   render() {
     return (
@@ -192,7 +195,7 @@ const PRODUCTS = [
   {category: 'iPhone', price: '122,800円', stocked: true, name: 'iPhone 13Pro', image: iPhone13Pro, to:'https://www.apple.com/jp/shop/buy-iphone/iphone-13-pro'},
   {category: 'iPhone', price: '86,800円', stocked: false, name: 'iPhone 13', image: iPhone13, to:'https://www.apple.com/jp/shop/buy-iphone/iphone-13'},
   {category: 'iPhone', price: '57,800円', stocked: true, name: 'iPhone SE', image: iPhoneSE, to:'https://www.apple.com/jp/shop/buy-iphone/iphone-se'},
-  {category: 'iPad', price: '57,800円', stocked: true, name: 'iPhone SE', image: iPhoneSE, to:'https://www.apple.com/jp/shop/buy-iphone/iphone-se'}
+  {category: 'iPad', price: 84800, stocked: true, name: 'iPad Air', image: iPadAir, to:'https://www.apple.com/jp/shop/buy-ipad/ipad-air'}
 ];
 
 export default App;
