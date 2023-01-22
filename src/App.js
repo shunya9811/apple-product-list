@@ -58,7 +58,7 @@ class ProductTable extends React.Component {
 
     this.props.products.forEach((product) => {
 
-      if (product.name.indexOf(filterText) === -1) {
+      if (product.name.toUpperCase().indexOf(filterText.toUpperCase()) === -1) {
         return;
       }
 
