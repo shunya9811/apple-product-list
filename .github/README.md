@@ -1,6 +1,6 @@
 # Apple Product List
 
-コンピュータサイエンス学習プラットフォーム Recursion のvueコースの課題として作成したプロジェクト「Apple Product List」です
+コンピュータサイエンス学習プラットフォーム Recursion のreactコースの課題として作成したプロジェクト「Apple Product List」です
 
 ## プロジェクトの概要
 
